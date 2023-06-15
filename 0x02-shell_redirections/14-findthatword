@@ -1,3 +1,2 @@
-
-#1/bin/bash
-grep -i "route" /etc/passwd
+#!/bin/bash
+grep -i "root" /etc/passwd
